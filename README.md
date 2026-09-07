@@ -4,7 +4,6 @@
 
 ## Overview
 
-This repository documents a hands-on network security lab completed as part of the **IT474 – Network Security** course at King Saud University.
 
 The lab focused on capturing and analyzing **TCP and ICMP network traffic using Wireshark**. A text file (`Alice.txt`) was transferred to a remote server to generate TCP traffic for analysis, while the `ping` command was used to generate ICMP traffic.
 
